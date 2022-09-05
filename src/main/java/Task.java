@@ -18,7 +18,7 @@ public class Task {
         for(int i=0; i < argument.length(); i++){
             String letter = String.valueOf(argument.charAt(i));
             if(letters.containsKey(letter)){
-                letters.put(letter, letters.get(letter) + 1);
+                letters.put(letter, letters.get(letter) + 1111);
             }else{
                 letters.put(letter, 1);
             }
