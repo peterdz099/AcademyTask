@@ -29,6 +29,7 @@ public class Task {
 
         for (Map.Entry<String, Integer> entry : sorted.entrySet()) {
             System.out.println(entry.getKey() + " = " + entry.getValue());
+            SYSASFDASDASDASDASDASDASDASDa
         }
 
     }
